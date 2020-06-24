@@ -1,0 +1,8 @@
+[{
+    "name": "time",
+    "type": "date",
+	"format": "%Y-%m-%d %H:%M:%S"
+}, {
+    "name": "temp",
+    "type": "number"
+}]
